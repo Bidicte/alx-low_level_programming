@@ -12,13 +12,13 @@ int n;
 char ch;
 for (n = 0; n <= 9; n++)
 {
-putchar((n % 15) + '0');
+putchar((n % 16) + '0');
 }
 
 for (ch = 'a'; ch <= 'e'; ch++)
 {
 putchar(ch);
 }
-putchar('\n');   
+putchar('\n');
 return (0);
 }

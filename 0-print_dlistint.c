@@ -20,3 +20,4 @@ nodeCount++;
 }
 return (nodeCount);
 }
+}

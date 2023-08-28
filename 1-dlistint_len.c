@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
-* dlistint_len - returns the num of elements
+* dlistint_len - returns the num of element
 * @h: head node of the list
 * Return: the number of elements
 */

@@ -1,0 +1,18 @@
+#include "main.h"
+
+/**
+ * _abs - abscise of n
+ * @n: number
+ *
+ * Return: O ou 1
+ */
+
+int _abs(int n)
+{
+if (n < 0)
+{
+return (-n);
+}
+return (n);
+}
+
